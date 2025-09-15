@@ -5,7 +5,7 @@ title: Privacy Policy
 
 # Privacy Policy
 
-**Effective Date:** [Insert Date]
+**Effective Date:** 15/09/2025
 
 ## 1. Introduction
 
