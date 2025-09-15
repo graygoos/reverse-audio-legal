@@ -5,7 +5,7 @@ title: Terms of Use  # or "Terms of Use" for the other file
 
 # Terms of Use
 
-**Effective Date:** [Insert Date]
+**Effective Date:** 15/09/2025
 
 ## 1. Acceptance of Terms
 
