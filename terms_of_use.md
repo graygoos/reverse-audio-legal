@@ -93,7 +93,7 @@ These Terms shall be governed by and construed in accordance with the laws of [Y
 ## 13. Contact Information
 
 If you have any questions about these Terms, please contact us at:
-- Email: [your-email@example.com]
+- Email: femialiu713@gmail.com
 - App Store: Reverse Audio Support
 
 ## 14. Severability
