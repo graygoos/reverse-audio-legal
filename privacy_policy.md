@@ -129,7 +129,7 @@ Your continued use of the App after changes to this policy constitutes acceptanc
 
 If you have questions about this Privacy Policy or our data practices, please contact us:
 
-- **Email:** [your-email@example.com]
+- **Email:** femialiu713@gmail.com
 - **Subject Line:** Privacy Policy Inquiry - Reverse Audio
 
 ## 12. Effective Date
