@@ -16,7 +16,7 @@ This Privacy Policy describes how Reverse Audio ("we," "our," or "us") collects,
 ### 2.1 Audio Recordings
 - **What we collect:** Audio recordings you create using the App
 - **How we use it:** To provide the core functionality of the App (reversing, applying effects)
-- **Storage:** Audio files are stored locally on your device and are not uploaded to our servers unless you explicitly share them
+- **Storage:** Audio files are stored locally on your device and are not uploaded to our servers
 
 ### 2.2 Device Information
 - **What we collect:** Device model, operating system version, App version
