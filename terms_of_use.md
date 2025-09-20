@@ -1,11 +1,6 @@
----
-layout: default
-title: Terms of Use  # or "Terms of Use" for the other file
----
-
 # Terms of Use
 
-**Effective Date:** 15/09/2025
+**Effective Date:** September 15, 2025
 
 ## 1. Acceptance of Terms
 
@@ -15,54 +10,58 @@ By downloading, installing, or using the Reverse Audio app ("the App"), you agre
 
 Reverse Audio is a mobile application that allows users to:
 - Record audio using their device's microphone
-- Play audio in reverse
-- Apply various voice effects
-- Share audio recordings
-- Import audio files from their device
+- Play audio normally or in reverse
+- Apply voice effects (e.g., echo, robot, chipmunk, distortion, deep voice, fairy, mermaid, alien, klingon, borg)
+- Adjust playback rate and pitch shift (premium feature)
+- Import and load external audio files
+- Share processed audio recordings
+- Limit free users to 10 recordings per day
 
 ## 3. User Accounts and Subscriptions
 
 ### 3.1 Free Version
-The App offers a free version with limited daily usage (up to 10 recordings per day) and access to basic features.
+The App offers a free version with limited daily usage (up to 10 recordings per day), basic voice effects (e.g., clear), and no access to premium effects or pitch shift.
 
 ### 3.2 Premium Subscription
 Premium features include:
 - Unlimited daily recordings
-- Access to all voice effects
-- Advanced audio controls (pitch adjustment)
-- Ad-free experience
-- HD quality exports
+- Access to all voice effects (e.g., chipmunk, robot, echo, distortion, deep voice, fairy, mermaid, alien, klingon, borg)
+- Pitch shift adjustment
+- Ad-free experience (if applicable)
 
 ### 3.3 Subscription Terms
+- Subscriptions are managed via RevenueCat and processed through Apple's App Store
 - Subscriptions are auto-renewable
 - Payment will be charged to your iTunes Account upon confirmation of purchase
 - Subscriptions automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period
 - Your account will be charged for renewal within 24 hours prior to the end of the current period
 - You can manage your subscriptions and turn off auto-renewal in your Account Settings after purchase
+- Restore purchases is available through the App's menu
 
 ## 4. User Conduct
 
 You agree not to:
 - Use the App for any unlawful purpose
-- Record conversations without proper consent
+- Record conversations without proper consent where required by law
 - Create or distribute content that is offensive, defamatory, or violates others' rights
 - Attempt to reverse engineer, hack, or compromise the App's security
 - Use the App to harass, threaten, or harm others
+- Exceed daily limits for free users through unauthorized means
 
 ## 5. Content and Intellectual Property
 
 ### 5.1 User Content
-- You retain ownership of audio recordings you create using the App
-- You are responsible for ensuring you have the right to record and share any content
-- You grant us a limited license to process your recordings as necessary to provide the service
+- You retain ownership of audio recordings you create or import using the App
+- You are responsible for ensuring you have the right to record, process, and share any content
+- You grant us a limited license to process your recordings on-device as necessary to provide the service (e.g., reversing, applying effects)
 
 ### 5.2 App Content
-- The App and its original content, features, and functionality are owned by us
+- The App and its original content, features, and functionality (including voice effect algorithms) are owned by us
 - The App is protected by copyright, trademark, and other laws
 
 ## 6. Privacy and Data
 
-Your privacy is important to us. Please review our Privacy Policy to understand how we collect, use, and protect your information.
+Your privacy is important to us. Please review our Privacy Policy to understand how we collect, use, and protect your information, including through TelemetryDeck for analytics and RevenueCat for subscriptions.
 
 ## 7. Disclaimers
 
@@ -72,8 +71,8 @@ Your privacy is important to us. Please review our Privacy Policy to understand 
 - Features may be modified, suspended, or discontinued at any time
 
 ### 7.2 Audio Quality
-- Audio quality depends on device capabilities and recording conditions
-- We are not responsible for poor audio quality due to device limitations
+- Audio quality depends on device capabilities, recording conditions, and AVFoundation processing
+- We are not responsible for poor audio quality due to device limitations or user error
 
 ## 8. Limitation of Liability
 
@@ -93,7 +92,7 @@ We reserve the right to modify these Terms at any time. We will notify users of 
 
 ## 12. Governing Law
 
-These Terms shall be governed by and construed in accordance with the laws of [Your Jurisdiction], without regard to its conflict of law provisions.
+These Terms shall be governed by and construed in accordance with the laws of the United States, without regard to its conflict of law provisions.
 
 ## 13. Contact Information
 
@@ -107,4 +106,4 @@ If any provision of these Terms is held to be invalid or unenforceable, the rema
 
 ---
 
-*Last updated: [Insert Date]*
+*Last updated: September 15, 2025*
