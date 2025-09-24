@@ -4,7 +4,7 @@
 
 ## 1. Introduction
 
-This Privacy Policy describes how Reverse Audio ("we," "our," or "us") collects, uses, and protects your information when you use our mobile application (the "App").
+This Privacy Policy describes how Reverse Audio Play Sounds ("we," "our," or "us") collects, uses, and protects your information when you use our mobile application (the "App").
 
 ## 2. Information We Collect
 
@@ -104,11 +104,14 @@ We may disclose information if required by law or to protect our rights, users, 
 
 ## 8. Children's Privacy
 
-### 8.1 Age Restrictions
-The App is not directed to children under 13 years of age. We do not knowingly collect personal information from children under 13.
+### 8.1 No Age Restrictions
+The App is suitable for users of all ages, and there are no age restrictions or limitations for its use. We do not knowingly collect personal information in a manner that requires parental consent under applicable laws, such as the Children's Online Privacy Protection Act (COPPA).
 
-### 8.2 Parental Notice
-If we learn that we have collected information from a child under 13, we will delete that information promptly.
+### 8.2 Data Practices
+All data collection and usage practices described in this Privacy Policy apply uniformly to users of all ages. Audio recordings are stored locally on the user's device, and we use anonymized analytics to improve the App without collecting identifiable personal information.
+
+### 8.3 Parental Guidance
+Parents or guardians are encouraged to review this Privacy Policy to understand our data practices. If you have concerns about your child's use of the App, you may contact us at the email provided in Section 11.
 
 ## 9. International Users
 
@@ -131,7 +134,7 @@ Your continued use of the App after changes to this policy constitutes acceptanc
 If you have questions about this Privacy Policy or our data practices, please contact us:
 
 - **Email:** femialiu713@gmail.com
-- **Subject Line:** Privacy Policy Inquiry - Reverse Audio
+- **Subject Line:** Privacy Policy Inquiry - Reverse Audio Play Sounds
 
 ## 12. Effective Date
 
