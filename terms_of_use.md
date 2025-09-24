@@ -4,11 +4,11 @@
 
 ## 1. Acceptance of Terms
 
-By downloading, installing, or using the Reverse Audio app ("the App"), you agree to be bound by these Terms of Use ("Terms"). If you do not agree to these Terms, do not use the App.
+By downloading, installing, or using the Reverse Audio Play Sounds app ("the App"), you agree to be bound by these Terms of Use ("Terms"). If you do not agree to these Terms, do not use the App.
 
 ## 2. Description of Service
 
-Reverse Audio is a mobile application that allows users to:
+Reverse Audio Play Sounds is a mobile application that allows users to:
 - Record audio using their device's microphone
 - Play audio normally or in reverse
 - Apply voice effects (e.g., echo, robot, chipmunk, distortion, deep voice, fairy, mermaid, alien, klingon, borg)
@@ -98,7 +98,6 @@ These Terms shall be governed by and construed in accordance with the laws of th
 
 If you have any questions about these Terms, please contact us at:
 - Email: femialiu713@gmail.com
-- App Store: Reverse Audio Support
 
 ## 14. Severability
 
